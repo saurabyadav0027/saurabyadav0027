@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Saurabkumar Yadav 👋</h1>
+<h1 align="center">Hi, I'm Saurabkumar Yadav </h1>
 <p align="center">Data Science & CS student · Building web apps · Exploring systems & security</p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 BS in Data Science and Applications @ **IIT Madras**
-- 🎓 Undergraduate CS program @ **Scaler School of Technology**
-- 💻 I build front-end web apps with React and Tailwind CSS
-- 🔐 I like breaking things (safely) — CTF-style Linux/security challenges in my downtime
-- 🌱 Currently sharpening my DSA, systems, and cloud automation skills
-- 📫 Reach me by opening an issue on any of my repos, or check my pinned projects below
+-  BS in Data Science and Applications @ **IIT Madras**
+-  Undergraduate CS program @ **Scaler School of Technology**
+-  I build front-end web apps with React and Tailwind CSS
+-  I like breaking things (safely) — CTF-style Linux/security challenges in my downtime
+-  Currently sharpening my DSA, systems, and cloud automation skills
+-  Reach me by opening an issue on any of my repos, or check my pinned projects below
 
 ---
 
@@ -54,21 +54,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🍲 [**Recipe Finder**](https://github.com/saurabyadav0027/recipe-finder) | Responsive recipe discovery web app, deployed live via GitHub Pages with a working CI/CD pipeline | React, Tailwind CSS, GitHub Pages |
-| 🔐 **Linux Security Wargames** | Solved 15+ hands-on challenges from OverTheWire's Bandit series — binary analysis and network navigation using `grep`, `tr`, `xxd`, `netcat` | Linux CLI, Bash |
-| 📊 **Automated Data Logger** | Script that automates daily activity logging into a cloud-synced repository, with streamlined local/remote file handling | Python, Google Drive API |
+|  [**Recipe Finder**](https://github.com/saurabyadav0027/recipe-finder) | Responsive recipe discovery web app, deployed live via GitHub Pages with a working CI/CD pipeline | React, Tailwind CSS, GitHub Pages |
+|  **Linux Security Wargames** | Solved 15+ hands-on challenges from OverTheWire's Bandit series — binary analysis and network navigation using `grep`, `tr`, `xxd`, `netcat` | Linux CLI, Bash |
+|  **Automated Data Logger** | Script that automates daily activity logging into a cloud-synced repository, with streamlined local/remote file handling | Python, Google Drive API |
 
 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabyadav0027&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabyadav0027&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
-<p align="center"><i>Open to internship and freelance front-end opportunities.</i></p>
