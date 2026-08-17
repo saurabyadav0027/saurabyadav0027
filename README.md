@@ -58,7 +58,7 @@
 | 🔐 **Linux Security Wargames** | Solved 15+ hands-on challenges from OverTheWire's Bandit series — binary analysis and network navigation using `grep`, `tr`, `xxd`, `netcat` | Linux CLI, Bash |
 | 📊 **Automated Data Logger** | Script that automates daily activity logging into a cloud-synced repository, with streamlined local/remote file handling | Python, Google Drive API |
 
-> 📝 Update the links above once these repos are public and pinned.
+
 
 ---
 
