@@ -48,17 +48,4 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
-### 📌 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-|  [**Recipe Finder**](https://github.com/saurabyadav0027/recipe-finder) | Responsive recipe discovery web app, deployed live via GitHub Pages with a working CI/CD pipeline | React, Tailwind CSS, GitHub Pages |
-|  **Linux Security Wargames** | Solved 15+ hands-on challenges from OverTheWire's Bandit series — binary analysis and network navigation using `grep`, `tr`, `xxd`, `netcat` | Linux CLI, Bash |
-|  **Automated Data Logger** | Script that automates daily activity logging into a cloud-synced repository, with streamlined local/remote file handling | Python, Google Drive API |
-
-
-
----
 
