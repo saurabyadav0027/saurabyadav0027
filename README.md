@@ -68,5 +68,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabyadav0027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saurab's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saurabyadav0027&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurab's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=saurabyadav0027&theme=tokyonight&hide_border=true" alt="Saurab's GitHub Streak" />
 </p>
