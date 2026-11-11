@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saurabkumar Yadav 👋</h1>
+<h1 align="center">Hi, I'm Saurabkumar Yadav </h1>
 <p align="center">Computer Science & Data Science · Full-Stack Builder · Low-Level Systems Enthusiast</p>
 
 <p align="center">
@@ -8,17 +8,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 **BS in Data Science and Applications** @ **IIT Madras**
-- 💻 **Undergraduate Computer Science** @ **Scaler School of Technology**
-- 🚀 Building scalable web applications, real-time command dashboards, and developer tooling.
-- ⚡ Currently focused on **Data Structures & Algorithms in C++**, systems programming, and cloud-native backends.
-- 🕹️ Passionate about CTFs, Linux internals, and understanding how computers work from the silicon up.
+-  **BS in Data Science and Applications** @ **IIT Madras**
+-  **Undergraduate Computer Science** @ **Scaler School of Technology**
+-  Building scalable web applications, real-time command dashboards, and developer tooling.
+-  Currently focused on **Data Structures & Algorithms in C++**, systems programming, and cloud-native backends.
+-  Passionate about CTFs, Linux internals, and understanding how computers work from the silicon up.
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Languages**
 <br />
@@ -65,7 +65,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=saurabyadav0027&show_icons=true&theme=tokyonight&hide_border=true" alt="Saurab's GitHub Stats" />
